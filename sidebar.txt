@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bid:home|Door43 (bid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bid|d43-bid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bid/archive/master.zip|d43-bid.zip]]
+
+**Recent Changes**
+{{changes>ns = bid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bid|Ethnologue data]]
+
